@@ -1,0 +1,9 @@
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\bin\Debug\Streams.exe.config
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\bin\Debug\Streams.exe
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\bin\Debug\Streams.pdb
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\obj\Debug\Streams.csprojAssemblyReference.cache
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\obj\Debug\Streams.Form1.resources
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\obj\Debug\Streams.Properties.Resources.resources
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\obj\Debug\Streams.csproj.GenerateResource.cache
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\obj\Debug\Streams.exe
+d:\Рабочий стол\Ялпута проекты\Streams\Streams\obj\Debug\Streams.pdb
